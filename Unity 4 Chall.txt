@@ -1,0 +1,8 @@
+Unity challenge 4: Soccer scripting
+
+Name:John Rengel O. Jaylo
+Section:BSCOE 2-1
+Github name: JohnRen1211
+Github link:https:https://github.com/JohnRen1211/Cpe-40032-C4-4.git
+Youtube link: https:https://youtu.be/nyy8o6z6i_8
+Unity learn ID:https://learn.unity.com/project/unit-4-gameplay-mechanics?uv=2019.4&courseId=5cf96c41edbc2a2ca6e8810f
